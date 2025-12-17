@@ -9,7 +9,6 @@ Real-time tracking of government, military, and VIP aircraft using the free ADSB
 <img width="1110" height="562" alt="image" src="https://github.com/user-attachments/assets/ef57a432-d13b-4ae0-840f-4720b6c509d2" />
 <img width="1110" height="489" alt="image" src="https://github.com/user-attachments/assets/ea078480-6eea-444b-a6bb-45964331e158" />
 <img width="1110" height="409" alt="image" src="https://github.com/user-attachments/assets/0127f3f5-bfd2-496d-8e48-6405cb954cdb" />
-<img width="1326" height="792" alt="image" src="https://github.com/user-attachments/assets/57c65b30-2c8b-494f-bd5c-e36009b27c4f" />
 
 
 ## Data Sources
