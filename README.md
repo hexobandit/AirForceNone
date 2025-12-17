@@ -57,12 +57,3 @@ requests>=2.28.0
 rich>=13.0.0
 reverse_geocoder>=1.5.1
 ```
-
-## Future Plans
-
-See [BRAINSTORM.md](BRAINSTORM.md) for the full web application architecture including:
-- Flask web server with real-time WebSocket updates
-- PostgreSQL database for historical flight data
-- Interactive map with Leaflet.js
-- Slack alerts for VIP aircraft detection
-- Flight trajectory visualization
