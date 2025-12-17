@@ -6,10 +6,13 @@ Presidential & Military Aircraft Tracker
 
 Real-time tracking of government, military, and VIP aircraft using the free ADSB.One API. Detects presidential planes, dictator aircraft, spy planes, and military flights worldwide.
 
-## Data Source
+## Data Sources
 
 - **API**: [ADSB.One](https://api.adsb.one) - FREE, 1 request/second, unfiltered military data
 - **Endpoint**: `/v2/mil` - Returns all military aircraft globally
+- **Aircraft Database**: [plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - Community-maintained database of interesting aircraft (15,887 entries)
+
+> **Note:** The plane-alert-db is maintained by the community and occasionally contains editorial comments about UK politics in the tags. Don't blame me for those. :)
 
 ## Proof of Concept Scripts
 
